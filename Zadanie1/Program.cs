@@ -1,9 +1,9 @@
 ﻿static double Average(int[] input)
 {
     var sum = 0.0;
-    for (var i = 0; i < input.Length; i++)
+    for (var zmienionaNazwaMain = 0; zmienionaNazwaMain < input.Length; zmienionaNazwaMain++)
     {
-        sum += input[i];
+        sum += input[zmienionaNazwaMain];
     }
 
     return sum / input.Length;
