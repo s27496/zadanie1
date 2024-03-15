@@ -23,7 +23,6 @@ static int Max(int[] input)
     return max;
 }
 
-Console.WriteLine("Hello, World!");
 Console.WriteLine("zmiana 1");
 Console.WriteLine("zmiana 2");
 Console.WriteLine("zmiana 3");
