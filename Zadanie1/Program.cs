@@ -2,3 +2,4 @@
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("zmiana 1");
+Console.WriteLine("zmiana 2");
